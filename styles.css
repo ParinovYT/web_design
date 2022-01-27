@@ -1,5 +1,5 @@
 p {
 	font-size: 30px;
-	color:red;
-	text-decoration: overline;
+	color:green;
+	text-decoration: line-through;
 }
