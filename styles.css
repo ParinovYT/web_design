@@ -1,13 +1,9 @@
-.eee {
-	font-size: 20px;
+.header {
+	color: red;
 }
-.zzz {
-	font-size: 30px;
+h2.header { 
+	font-size: 40px 
 }
-.ggg {
-	font-size: 35px;
-}
-.eee, .zzz, .ggg {
-	text-align: center;
-	font-family: Arial;
-}
+h3.header { 
+	font-size: 30px 
+} 
