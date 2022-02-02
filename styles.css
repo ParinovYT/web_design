@@ -10,3 +10,16 @@
 .small {
 	font-size: 20px;
 }
+
+.s1 {
+	font-family: 'Arial Bold Italic';
+	font-stretch: ultra-expanded;
+}
+
+.s2 {
+	text-shadow: 0 0 10px green,0 0 20px green,0 0 30px green,0 0 40px green;
+}
+
+.s3 {
+	color: orange;
+}
