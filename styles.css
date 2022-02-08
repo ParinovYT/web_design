@@ -1,6 +1,4 @@
-h2:nth-of-type(2) {
-	color: red;
-}
-h2:nth-last-of-type(2) {
-	color: green;
+p:only-of-type {
+  background: red;
+  color: green;
 }
