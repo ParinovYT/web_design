@@ -1,4 +1,25 @@
+p {
+    width: 300px;
+    text-align: justify;
+}
+h1 {
+	color: green; 
+	text-align: left;
+}
+h2 {
+	text-align: center;
+	width: 300px;
+}
+h3 {
+	color: red;
+}
 td {
-	width: 400px;
-	height: 300px;
-} 
+	width: 400px; height: 300px;
+	text-align: center;
+}
+table {
+	height: 500px;
+}
+th {
+	text-align: left;
+}
