@@ -1,3 +1,6 @@
 a[href^="http://"] {
+	color: green;
+}
+a[href$='.html'] {
 	color: red;
 }
