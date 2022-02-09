@@ -1,7 +1,21 @@
-div {
-	width: 100px;
+#elem {
+    border: 1px solid red;
+}
+#elem1 {
 	height: 100px;
-	margin-bottom: 20px;
-	border: 1px solid red;
-	display: inline-block;
+    width: 100px;
+    border: 1px solid green;
+    margin: 10px auto;
+}
+#elem2 {
+    height: 100px;
+    width: 200px;
+    border: 1px solid green;
+    margin: 10px auto;
+}
+#elem3 {
+    height: 100px;
+    width: 300px;
+    border: 1px solid green;
+    margin: 10px auto;
 }
