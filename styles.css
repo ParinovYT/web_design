@@ -1,18 +1,8 @@
 #elem {
-	padding: 10px 20px 30px 40px; /* все */
 	width: 300px;
-	border: 1px solid red;
-	text-align: justify;
-}
-#elem1 {
-	padding: 60px 30px; /* все */
-	width: 300px;
-	border: 1px solid red;
-	text-align: justify;
-}
-#elem2 {
-	padding: 10px 20px 40px; /* все */
-	width: 300px;
-	border: 1px solid red;
-	text-align: justify;
+	height: 300px;
+	background: #f1f1f1;
+	padding: 25px; /* задаем отступы */
+	border: 10px solid green;  /* задаем границу */
+	box-sizing: border-box;  /* убираем расширение */
 }
