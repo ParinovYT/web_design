@@ -1,3 +1,4 @@
-h2#elem.bbb {
-	color: red;
+#block h1, #block h2 {
+	text-align: center;
+	color: green;
 }
